@@ -14,7 +14,7 @@ PostAddress|/growtopia/server_data.php
 ProxyServer|23.27.6.206
 ProxyServerPort|1234
 discord|discord.gg/ajproxy
-discordme|`b[`9ajproxy``]``
+discordme|`9[`^ajproxy``]``
 GrowtopiaIP|213.179.209.168
 GrowtopiaPort|17179|17178|17177|17182|17180
 teamdav|DAVPLAY34
@@ -70,9 +70,8 @@ CsnLink#|/ju|`4(FEATURE IS NOT IN PROXY OFFICIALLY)||http://91.109.117.48:15461/
 # RUD #
 |https://discord.com/api/webhooks/1238929090275446816/P6SjzrufJ2QCMCEZJSYEE9VYlpy--DKFHQVmpTlUuWnvCcVc1TmSF8PUc2AwDnBbwRoz/messages/1238930070513516606|1|json|content|
 #########
-CsnLink|/rud|`9(Warp To Newest `1TeamRudys`` Casino Link [`4Disabled``])|RUD|
+CsnLink|/rud|`9(Warp To Newest `1TeamRudys`` Casino Link)||https://discord.com/api/webhooks/1331983538920230964/DR572oHMJ26-3Lv9JqFIeqwMvRmgcN1ZSJkPamYsV_Wnf-5eGtKP2oJ_h1_fZZ5CpcC-/messages/1331989322588753920|1|json|content|
 AddWarpLinkThroughProxyServer|/pay|`9(Warp To Newest `1TeamPay`` Casino Link)|teampay|
-AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
 
 # Removed #
 #add_image_button|banner_open_link_https://www.instagram.com/teamjuacc|interface/teamjuacc_banner.rttex|bannerlayout|||
