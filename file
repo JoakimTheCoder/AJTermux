@@ -1,1 +1,115 @@
 TemporaryOpen|1
+
+PostAPI|https://meta.vaccat.xyz
+PostAddress|/growtopia/server_data.php
+FpsOffset|29828860
+FpsPattern|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 ? 24 28 ? ? ? ? ? ? ? ? 0F 28 D7 BA 13 00 00 00 E8 ? ? ? FF
+OldFpsPattern##|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 74 24 28 0F 57 DB 44 89 74 24 20 0F 28 D7 BA 13 00 00 00 E8 ? ? ? FF
+searchOffsetWithPattern|1
+ProxyServer|23.27.6.206
+ProxyServerPort|1234
+discord|discord.gg/ajproxy
+discordme|`b[`9discord.gg/ajproxy``]``
+GrowtopiaIP|213.179.209.168
+GrowtopiaPort|17179|17178|17177|17182|17180
+teamdav|DAVPLAY34
+#teamhuf|HUFGG132
+#teamrud|RUDGT50
+#teamlia|LIASTYLE
+#teameuro|EUROWOW
+KovatTyypit|owner|LEKSA|kondee|Dabah|leksa
+UpdateURL|https://filepost.io/streamer?token=e629cfd460920dbf2b5ab5dd613aa32d085404b3cbca693418a2b1c53186a47a%7CB0Rm%2BLeIvvp3WkqSDc2a9uLctJ1EN4qlA%2Fi5rZQ5VLRZaF%2F4yvjQItKCQkmAzbKovkSO0C%2F%2BhIwWffOKc2sqoVdH7r2apIA%2BeKaRrQ2vXBA3WVjoUgtd6zFWpwBDiCKxnzdmzJ3ydd9Dts0SxVWz2D%2BNgo3pfg91aOTyYYEsPWOeTUOuqj13b8b7Mr4u60HR5Huko%2BY711opZemid2k7VGmxuSg%2Bzx0LJvUG%2BA%3D%3D--%2BDsusvMFPRPUqtpw--qz7LWwZ%2Fmi5wbgeTGE5dCA%3D%3D
+DiscordID|1210909836288729099
+TemporaryUse|0
+ItemsBackup|https://files.catbox.moe/1xbxqo.dat
+ItemDataBackup2|https://files.catbox.moe/1xbxqo.dat
+# https://silviozas.com/images/items.dat
+RudysURL|
+
+AddSupportForNewItemsVersion|20|1
+AddSupportForNewItemsVersion|21|1
+
+AddModsList|67302|`#@Miu|
+AddModsList|36299549|`#@Moniuet|
+
+LoginMessage1|
+LoginMessage4|
+LoginMessage5|
+
+LoginMessage2|
+LoginMessage3|`2Logging In...
+UpdateMessage|
+ProxyVersion|17.5
+
+## `2New `9Proxy Version Is Released, Use `2Newest`` Version To Play!````
+CsnLink#|/bet|`9(Warp To Newest `1TeamBet`` Casino Link)|BET136|
+CsnLink#|/aj|`9(Warp To Newest `1TeamAJ`` Casino Link)|AJCERE|
+CsnLink#|/pay|`9(Warp To Newest `1TeamPay`` Casino Link)|PAYMO13|
+CsnLink#|/flow|`9(Warp To Newest `1TeamFlow`` Casino Link)|FLOW265|
+
+CsnLink|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)||https://discord.com/api/webhooks/1354806273501040680/XA7TtxLdVSJyUycYeOI6H7M-9643diwoLt5vBknAwm2G8XDeSrlDLgsd-X6F7QYGkeaM/messages/1354809774100840631|1|json|content|
+CsnLink|/dav|`9(Warp To Newest `8TEAMDAV`` Casino Link)||https://discord.com/api/webhooks/1331983538920230964/DR572oHMJ26-3Lv9JqFIeqwMvRmgcN1ZSJkPamYsV_Wnf-5eGtKP2oJ_h1_fZZ5CpcC-/messages/1331989322588753920|1|json|content|
+CsnLink|/ju|`9(Warp To Newest `8TEAMJU`` Link)||https://teamju.com/link|1|urlbody||
+AddWarpLinkThroughProxyServer|/pay|`9(Warp To Newest `8TEAMPAY`` Casino Link)|teampay|
+AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
+
+Rttex##|teamrep_banner.rttex|https://files.catbox.moe/8ke423.rttex
+Rttex|teamju_banner2.rttex|https://files.catbox.moe/e2nqub.rttex
+Rudbanner.rttex|https://files.catbox.moe/9nbcpr.rttex
+Rttex|teampay_banner.rttex|https://files.catbox.moe/p8af9s.rttex
+Rttex|ajico.rttex|https://files.catbox.moe/5asq2q.rttex
+Rttex|teamdav_banner.rttex|https://files.catbox.moe/be6cbe.rttex
+Rttex|teamput_banner.rttex|https://files.catbox.moe/ucuefy.rttex
+##DISABLED
+teamjuacc_banner.rttex|https://files.catbox.moe/ugbup8.rttex
+FlowBanner.rttex|https://files.catbox.moe/yk6s57.rttex
+
+
+
+GetNewMeta|1
+PostUrl|www.growtopia1.com|www.growtopia2.com|growtopia2.com|62.115.253.19|52.4.237.84|62.115.253.17|
+# 3.215.163.22| # Not working anymore.
+
+LOGIN1|https://login.growtopiagame.com/player/login/dashboard?valKey=40db4045f2d8c572efe8c4a060605726
+LOGIN2|https://login.growtopiagame.com/player/growid/login/validate
+
+PostHeader|Host: www.growtopia1.com
+PostHeader|User-Agent:_UbiServices_SDK_2022.Release.9_PC64_ansi_static
+PostHeader|Accept: */*
+PostHeader|Content-Type: application/x-www-form-urlencoded
+PostFields|version=5.11&platform=0&protocol=216
+len|97|225|
+
+server_data_Start
+server|%s
+port|17091
+loginurl|login.growtopiagame.com
+type|1
+#maint|Server is under maintenance. We will be back online shortly. Thank you for your patience!
+beta_server|127.0.0.1
+beta_port|1945
+beta_type|1
+beta2_server|beta2.growtopiagame.com
+beta2_port|26999
+beta2_type|1
+type2|0
+meta|%s
+RTENDMARKERBS1001
+server_data_End
+
+#add_image_button|banner_open_link_https://www.instagram.com/teamjuacc|interface/teamjuacc_banner.rttex|bannerlayout|||
+#add_smalltext|`1You Can Type `9"/rud" ``To Warp To Newest `2TeamRudys`` Casino Link. Left|
+#add_smalltext|`9Discord: `1joakimmer1k0`` & `1naade_``|left|
+#add_smalltext|<CR>`9Type `2/rud`` To Join The Newest `8Rudys`` Casino Link.``<CR><CR>`3Discord:```w dsc.gg/rudys      `#@INSTAGRAM:`` @teamrudgt<CR>`6Facebook:`` Growtopia #TeamRudys<CR>`3LinkTree:`` linktr.ee/teamrudys|left|
+#add_smalltext|`9Trusted Philippines Team: `1TeamPay``.<CR>`9Type `2/pay`` To Join The Newest `1TeamPay``'s Casino Link.|left|
+GazzetteStart
+add_image_button|banner_input_/dav|interface/teamdav_banner.rttex|bannerlayout|||
+add_image_button|banner_input_/put|interface/teamput_banner.rttex|bannerlayout|||
+#add_image_button|banner_input_/ju|interface/teamju_banner2.rttex|bannerlayout|||
+#add_image_button|banner_input_/pay|interface/teampay_banner.rttex|bannerlayout|||
+add_spacer|small
+add_smalltext|`9Creators: Joakim & Naade. Discord: `1joakimmer1k0`` & `1naade_``|left|
+add_url_button||`9Join To The New Proxy `cDiscord Server|NOFLAGS|https://discord.gg/ajproxy|
+add_textbox|`2Enjoy `9the proxy made by `b[`9joakimmer1k0``]``|left|2480|
+add_spacer|small
+GazzetteEnd
