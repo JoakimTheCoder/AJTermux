@@ -1,5 +1,5 @@
-TemporaryOpen|1
-DownloadFileFromAuth|0
+TemporaryOpen|0
+DownloadFileFromAuth|1
 api|https://keyauth.win/api/1.2/
 
 PostAPI|https://meta.vaccat.xyz
