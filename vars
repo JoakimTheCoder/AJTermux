@@ -61,27 +61,13 @@ UpdateMessage|`2New `9Proxy Version Is Released, Use `2Newest`` Version To Play!
 ProxyVersion|16.6
 
 PostFields|
-CsnLink#|/bet|`9(Warp To Newest `1TeamBet`` Casino Link)|BET136|
-CsnLink#|/aj|`9(Warp To Newest `1TeamAJ`` Casino Link)|AJCERE|
-CsnLink#|/pay|`9(Warp To Newest `1TeamPay`` Casino Link)|PAYMO13|
-CsnLink#|/flow|`9(Warp To Newest `1TeamFlow`` Casino Link)|FLOW265|
+
+CsnLink|/rud|`9(Warp To Newest `8RUDYS`` Casino Link)||https://discordapp.com/api/webhooks/1365693668962472047/XDEDNIzMEIqvzFUo2J3JiPhXgrWGgYV2JzaLNX84cqtfPMjcXEohRuVSBGBww-DK1kQN/messages/1365693875707969558|1|json|content|
+CsnLink|/yt|`9(Warp To Newest `8TEAMYT`` Casino Link)||https://discordapp.com/api/webhooks/1358542564218896625/PXZEjxly_FSdB1ORl2_UlHeQg8SrXuB5UAfqoqyMsSEw7-X2LGjniIqoD9MvfHcl98F-/messages/1358545627713241270|1|json|content|
+CsnLink|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)||https://discordapp.com/api/webhooks/1354806256858300590/wHsPFXfL_4zeU5NU_n_eaT3hdv757QPgckZh5hLs7s-vFkXUL70e4fSIiamBWMSPrDiW/messages/1365975585020710915|1|json|content|
 CsnLink|/ju|`9(Warp To Newest `8TEAMJU`` Link)||https://teamju.com/link|1|urlbody||
-
-# RUD #
-|https://discord.com/api/webhooks/1238929090275446816/P6SjzrufJ2QCMCEZJSYEE9VYlpy--DKFHQVmpTlUuWnvCcVc1TmSF8PUc2AwDnBbwRoz/messages/1238930070513516606|1|json|content|
-#########
-CsnLink|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)||https://discord.com/api/webhooks/1354806273501040680/XA7TtxLdVSJyUycYeOI6H7M-9643diwoLt5vBknAwm2G8XDeSrlDLgsd-X6F7QYGkeaM/messages/1354809774100840631|1|json|content|
-CsnLink####|/rud|`9(Warp To Newest `1TeamRudys`` Casino Link)||https://discord.com/api/webhooks/1331983538920230964/DR572oHMJ26-3Lv9JqFIeqwMvRmgcN1ZSJkPamYsV_Wnf-5eGtKP2oJ_h1_fZZ5CpcC-/messages/1331989322588753920|1|json|content|
-CsnLink|/dav|`9(Warp To Newest `8TEAMDAV`` Casino Link)||https://discord.com/api/webhooks/1331983538920230964/DR572oHMJ26-3Lv9JqFIeqwMvRmgcN1ZSJkPamYsV_Wnf-5eGtKP2oJ_h1_fZZ5CpcC-/messages/1331989322588753920|1|json|content|
-AddWarpLinkThroughProxyServer|/pay|`9(Warp To Newest `1TeamPay`` Casino Link)|teampay|
-
-# Removed #
-#add_image_button|banner_open_link_https://www.instagram.com/teamjuacc|interface/teamjuacc_banner.rttex|bannerlayout|||
-#add_smalltext|`1You Can Type `9"/rud" ``To Warp To Newest `2TeamRudys`` Casino Link. Left|
-#add_smalltext|`9Discord: `1joakimmer1k0`` & `1naade_``|left|
-#add_smalltext|<CR>`9Type `2/rud`` To Join The Newest `8Rudys`` Casino Link.``<CR><CR>`3Discord:```w dsc.gg/rudys      `#@INSTAGRAM:`` @teamrudgt<CR>`6Facebook:`` Growtopia #TeamRudys<CR>`3LinkTree:`` linktr.ee/teamrudys|left|
-#add_smalltext|`9Trusted Philippines Team: `1TeamPay``.<CR>`9Type `2/pay`` To Join The Newest `1TeamPay``'s Casino Link.|left|
-##############
+AddWarpLinkThroughProxyServer|/pay|`9(Warp To Newest `8TEAMPAY`` Casino Link)|teampay|
+AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
 
 GazzetteStart
 #add_image_button|banner_input_/rud|interface/Rudbanner.rttex|bannerlayout|||
