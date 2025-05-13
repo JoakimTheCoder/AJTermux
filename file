@@ -1,7 +1,7 @@
 TemporaryOpen|0
 DownloadFileFromAuth|1
-api|https://prod.keyauth.com/
-#api#|https://keyauth.win/api/1.2/
+#api#|https://prod.keyauth.com/
+api|https://keyauth.win/api/1.2/
 #keyauth.win/api
 PostAPI|https://meta.vaccat.xyz
 PostAddress|/growtopia/server_data.php
