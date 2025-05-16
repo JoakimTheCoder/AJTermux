@@ -10,7 +10,7 @@ FpsOffset|29828860
 FpsPattern|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 ? 24 28 ? ? ? ? ? ? ? ? 0F 28 D7 BA 13 00 00 00 E8 ? ? ? ?
 OldFpsPattern##|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 74 24 28 0F 57 DB 44 89 74 24 20 0F 28 D7 BA 13 00 00 00 E8 ? ? ? FF
 searchOffsetWithPattern|1
-ProxyServer|23.27.6.206
+ProxyServer|5.180.82.170
 ProxyServerPort|1234
 discord|discord.gg/ajproxy
 discordme|`b[`9discord.gg/ajproxy``]``
