@@ -20,8 +20,8 @@ KovatTyypit|owner|LEKSA|kondee|Dabah|leksa
 UpdateURL|https://filepost.io/streamer?token=e629cfd460920dbf2b5ab5dd613aa32d085404b3cbca693418a2b1c53186a47a%7CB0Rm%2BLeIvvp3WkqSDc2a9uLctJ1EN4qlA%2Fi5rZQ5VLRZaF%2F4yvjQItKCQkmAzbKovkSO0C%2F%2BhIwWffOKc2sqoVdH7r2apIA%2BeKaRrQ2vXBA3WVjoUgtd6zFWpwBDiCKxnzdmzJ3ydd9Dts0SxVWz2D%2BNgo3pfg91aOTyYYEsPWOeTUOuqj13b8b7Mr4u60HR5Huko%2BY711opZemid2k7VGmxuSg%2Bzx0LJvUG%2BA%3D%3D--%2BDsusvMFPRPUqtpw--qz7LWwZ%2Fmi5wbgeTGE5dCA%3D%3D
 DiscordID|1210909836288729099
 TemporaryUse|0
-ItemsBackup|https://raw.githubusercontent.com/JoakimTheCoder/AJTermux/refs/heads/main/items.dat
-ItemDataBackup2|https://raw.githubusercontent.com/JoakimTheCoder/AJTermux/refs/heads/main/items.dat
+ItemsBackup|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/items.dat
+ItemDataBackup2|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/items.dat
 RudysURL|
 
 AddSupportForNewItemsVersion|20|1
@@ -32,11 +32,11 @@ AddModsList|36299549|`#@Moniuet|
 
 LoginMessage3|
 UpdateMessage|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
-ProxyVersion|17.5
+ProxyVersion|18.2
 NewProxyLink|https://filepost.io/d/h453JnwebQ
 
 CsnLink|/rud|`9(Warp To Newest `8RUDYS`` Casino Link)||https://discordapp.com/api/webhooks/1365693668962472047/XDEDNIzMEIqvzFUo2J3JiPhXgrWGgYV2JzaLNX84cqtfPMjcXEohRuVSBGBww-DK1kQN/messages/1365693875707969558|1|json|content|
-CsnLink|/yt|`9(Warp To Newest `8TEAMYT`` Casino Link)||https://discordapp.com/api/webhooks/1358542564218896625/PXZEjxly_FSdB1ORl2_UlHeQg8SrXuB5UAfqoqyMsSEw7-X2LGjniIqoD9MvfHcl98F-/messages/1358545627713241270|1|json|content|
+CsnLink|/octa|`9(Warp To Newest `8TEAMYT`` Casino Link)||https://discordapp.com/api/webhooks/1358542564218896625/PXZEjxly_FSdB1ORl2_UlHeQg8SrXuB5UAfqoqyMsSEw7-X2LGjniIqoD9MvfHcl98F-/messages/1358545627713241270|1|json|content|
 CsnLink|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)||https://discordapp.com/api/webhooks/1354806256858300590/wHsPFXfL_4zeU5NU_n_eaT3hdv757QPgckZh5hLs7s-vFkXUL70e4fSIiamBWMSPrDiW/messages/1365975585020710915|1|json|content|
 CsnLink|/ju|`9(Warp To Newest `8TEAMJU`` Link)||https://teamju.com/link|1|urlbody||
 AddWarpLinkThroughProxyServer|/pay|`9(Warp To Newest `8TEAMPAY`` Casino Link)|teampay|
@@ -46,10 +46,12 @@ AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
 
 Rttex#|teamju_banner2.rttex|https://files.catbox.moe/e2nqub.rttex
 Rttex#|teampay_banner.rttex|https://files.catbox.moe/p8af9s.rttex
-Rttex|ajico.rttex|https://raw.githubusercontent.com/JoakimTheCoder/AJTermux/refs/heads/main/ProxyIcon.rttex
-Rttex|teamput_banner.rttex|https://raw.githubusercontent.com/JoakimTheCoder/AJTermux/refs/heads/main/teamput_banner_new.rttex
-Rttex#|teamyt_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/AJTermux/refs/heads/main/teamyt_adv.rttex
-Rttex|teamflow_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/AJTermux/refs/heads/main/flow_adv.rttex
+Rttex|ajico.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/ProxyIcon.rttex
+Rttex|teamput_banner.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/teamput_banner_new.rttex
+Rttex#|teamyt_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/teamyt_adv.rttex
+Rttex|teamflow_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/flow_adv.rttex
+
+Rttex|octa_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/octa_adv.rttex
 
 LOGIN1|https://login.growtopiagame.com/player/login/dashboard?valKey=40db4045f2d8c572efe8c4a060605726
 LOGIN2|https://login.growtopiagame.com/player/growid/login/validate
@@ -82,7 +84,7 @@ server_data_End
 GazzetteStart
 add_spacer|small
 add_smalltext|`#**Paid Advertisements**|left|
-#add_image_button|banner_input_/yt|interface/teamyt_adv.rttex|bannerlayout|||
+add_image_button|banner_input_/octa|interface/octa_adv.rttex|bannerlayout|||
 add_image_button|banner_input_/put|interface/teamput_banner.rttex|bannerlayout|||
 add_image_button|banner_open_link_https://discord.gg/v3YpavEevn|interface/teamflow_adv.rttex|bannerlayout|||
 add_spacer|small
