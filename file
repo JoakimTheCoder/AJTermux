@@ -10,7 +10,7 @@ FpsOffset|29828860
 FpsPattern|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 ? 24 28 ? ? ? ? ? ? ? ? 0F 28 D7 BA 13 00 00 00 E8 ? ? ? ?
 OldFpsPattern##|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 74 24 28 0F 57 DB 44 89 74 24 20 0F 28 D7 BA 13 00 00 00 E8 ? ? ? FF
 searchOffsetWithPattern|1
-ProxyServer|5.180.82.170
+ProxyServer|195.62.48.50
 ProxyServerPort|1234
 discord|discord.gg/ajproxy
 discordme|`b[`9discord.gg/ajproxy``]``
@@ -32,7 +32,7 @@ AddModsList|36299549|`#@Moniuet|
 
 LoginMessage3|
 UpdateMessage|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
-ProxyVersion|18.2
+ProxyVersion|18.3
 NewProxyLink|https://filepost.io/d/h453JnwebQ
 
 CsnLink|/rud|`9(Warp To Newest `8RUDYS`` Casino Link)||https://discordapp.com/api/webhooks/1365693668962472047/XDEDNIzMEIqvzFUo2J3JiPhXgrWGgYV2JzaLNX84cqtfPMjcXEohRuVSBGBww-DK1kQN/messages/1365693875707969558|1|json|content|
