@@ -32,16 +32,19 @@ AddModsList|67302|`#@Miu|
 AddModsList|36299549|`#@Moniuet|
 
 LoginMessage3|
-
-
-UpdateMessage|`9New Temporary Version Update Is `2Available``. Download The `2Newest`` Version To Play!
+UpdateMessage|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
 ProxyVersion|18.3
-NewProxyLink|https://filepost.io/d/h453JnwebQ
+NewProxyLink|https://github.com/JoakimTheCoder/DownloadProxy/raw/refs/heads/main/AJ%20Premium%20Proxy%20V18.3.exe
 
-CsnLink|/rud|`9(Warp To Newest `8RUDYS`` Casino Link)||https://discordapp.com/api/webhooks/1365693668962472047/XDEDNIzMEIqvzFUo2J3JiPhXgrWGgYV2JzaLNX84cqtfPMjcXEohRuVSBGBww-DK1kQN/messages/1365693875707969558|1|json|content|
-CsnLink|/octa|`9(Warp To Newest `8TEAMYT`` Casino Link)||https://discordapp.com/api/webhooks/1358542564218896625/PXZEjxly_FSdB1ORl2_UlHeQg8SrXuB5UAfqoqyMsSEw7-X2LGjniIqoD9MvfHcl98F-/messages/1358545627713241270|1|json|content|
-CsnLink|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)||https://discordapp.com/api/webhooks/1354806256858300590/wHsPFXfL_4zeU5NU_n_eaT3hdv757QPgckZh5hLs7s-vFkXUL70e4fSIiamBWMSPrDiW/messages/1365975585020710915|1|json|content|
-CsnLink|/ju|`9(Warp To Newest `8TEAMJU`` Link)||https://teamju.com/link|1|urlbody||
+
+CsnLink#|/octa|`9(Warp To Newest `8TEAMYT`` Casino Link)||0gjMxczNxQzNwQTN4cjN0czMx8ycldWYzNXZt9CS1pnQGRGW1hDWL1ENyQXbwN0S55mMh52cIRGZZ9FWlBVOIFEbfl2RFBDSjZTRKlVN3YlYE9UOFNXM0J2Th1kNOlUem9iN0UzN3EjM0gjNwMTM3YDN3MTMvM3av9GaiV2dvkGch9SbvNmLwBXYkJ3bjNXak9yL6MHc0RHa|1|json|content|
+CsnLink#|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)||2cDN2UTO4QDMygTM4cjN0czMx8ycldWYzNXZt9CUB10TqpkTftGOM52X0l2SrJDdSNEOBJHSO1iYjhUYyZ1RtF0TjNkdxcmb2ZlNRt2M1plT4RVTJVUbKJ0SxskNRd3Y58CN3IjMwUjMzATO1QTM3YDN3MTMvM3av9GaiV2dvkGch9SbvNmLwBXYkJ3bjNXak9yL6MHc0RHa|1|json|content|
+
+
+CsnLink|/rud|`9(Warp To Newest `8RUDYS`` Casino Link)||[NoDecode]https://discordapp.com/api/webhooks/1376677120390201464/LQJD5pbMTt4_XrPbZWfteuS-acfvsMcf1DS2KqaBHlbZRXHs9eHqbi1A6F3Ezcb6kF2c/messages/1376677235150295073|1|json|content|
+CsnLink|/octa|`9(Warp To Newest `8TEAMYT`` Casino Link)||https://discordapp.com/api/webhooks/1374671306842177546/fyIN6MaObt1sE9ODbV75YJE6cH0EGi_lAH9PeX_YddHsna2nyKCpmt24MKX8uXdFBzuH/messages/1374678540741771284|1|json|content|
+CsnLink|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)||https://discordapp.com/api/webhooks/1374671459032502274/9cwQ6K1KBJmEIMTxNZu3kQ6Vvng1vCcOAmGVraHcb-NHrA8CRt2kKit_nL8k_NJjOMAP/messages/1374678182048956476|1|json|content|
+CsnLink|/ju|`9(Warp To Newest `8TEAMJU`` Link)||[NoDecode]https://teamju.com/link|1|urlbody||
 AddWarpLinkThroughProxyServer|/pay|`9(Warp To Newest `8TEAMPAY`` Casino Link)|teampay|
 AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
 
@@ -89,7 +92,7 @@ add_spacer|small
 add_smalltext|`#**Paid Advertisements**|left|
 add_image_button|banner_input_/octa|interface/octa_adv.rttex|bannerlayout|||
 add_image_button|banner_input_/put|interface/teamput_banner.rttex|bannerlayout|||
-add_image_button|banner_open_link_https://discord.gg/v3YpavEevn|interface/teamflow_adv.rttex|bannerlayout|||
+add_image_button|banner_open_link_https://discord.gg/3Tfq7KSgEy|interface/teamflow_adv.rttex|bannerlayout|||
 add_spacer|small
 add_textbox|`2Enjoy `9the proxy made by `b[`#Discord: ```9joakimmer1k0``]``|left|2480|
 add_spacer|small
