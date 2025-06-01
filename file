@@ -53,7 +53,7 @@ AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
 Rttex#|teamju_banner2.rttex|https://files.catbox.moe/e2nqub.rttex
 Rttex#|teampay_banner.rttex|https://files.catbox.moe/p8af9s.rttex
 Rttex|ajico.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/ProxyIcon.rttex
-Rttex|teamput_banner.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/teamput_banner_new.rttex
+Rttex#|teamput_banner.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/teamput_banner_new.rttex
 Rttex#|teamyt_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/teamyt_adv.rttex
 Rttex|teamflow_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/flow_adv.rttex
 
@@ -91,7 +91,7 @@ GazzetteStart
 add_spacer|small
 add_smalltext|`#**Paid Advertisements**|left|
 add_image_button|banner_input_/octa|interface/octa_adv.rttex|bannerlayout|||
-add_image_button|banner_input_/put|interface/teamput_banner.rttex|bannerlayout|||
+#add_image_button|banner_input_/put|interface/teamput_banner.rttex|bannerlayout|||
 add_image_button|banner_open_link_https://discord.gg/3Tfq7KSgEy|interface/teamflow_adv.rttex|bannerlayout|||
 add_spacer|small
 add_textbox|`2Enjoy `9the proxy made by `b[`#Discord: ```9joakimmer1k0``]``|left|2480|
