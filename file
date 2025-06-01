@@ -1,4 +1,5 @@
 TemporaryOpen|1
+_Message|Temporary Version is Closed, Download The Premium Version To Play!
 DownloadFileFromAuth|1
 #api#|https://prod.keyauth.com/
 api|https://keyauth.win/api/1.2/
@@ -31,9 +32,9 @@ AddModsList|67302|`#@Miu|
 AddModsList|36299549|`#@Moniuet|
 
 LoginMessage3|
-UpdateMessage|
 
-`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
+
+UpdateMessage|`9New Temporary Version Update Is `2Available``. Download The `2Newest`` Version To Play!
 ProxyVersion|18.3
 NewProxyLink|https://filepost.io/d/h453JnwebQ
 
