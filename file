@@ -1,6 +1,6 @@
-TemporaryOpen|1
+TemporaryOpen|0
 _Message|Temporary Version is Closed, Download The Premium Version To Play!
-DownloadFileFromAuth|1
+DownloadFileFromAuth|0
 #api#|https://prod.keyauth.com/
 api|https://keyauth.win/api/1.2/
 #keyauth.win/api
