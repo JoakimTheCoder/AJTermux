@@ -46,6 +46,7 @@ CsnLink|/rud|`9(Warp To Newest `8RUDYS`` Casino Link)||[NoDecode]https://discord
 CsnLink|/octa|`9(Warp To Newest `8TEAMYT`` Casino Link)||https://discordapp.com/api/webhooks/1374671306842177546/fyIN6MaObt1sE9ODbV75YJE6cH0EGi_lAH9PeX_YddHsna2nyKCpmt24MKX8uXdFBzuH/messages/1374678540741771284|1|json|content|
 CsnLink|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)||https://discordapp.com/api/webhooks/1374671459032502274/9cwQ6K1KBJmEIMTxNZu3kQ6Vvng1vCcOAmGVraHcb-NHrA8CRt2kKit_nL8k_NJjOMAP/messages/1374678182048956476|1|json|content|
 CsnLink|/ju|`9(Warp To Newest `8TEAMJU`` Link)||[NoDecode]https://teamju.com/link|1|urlbody||
+CsnLink|/bet|`9(Warp To Newest `8TEAMBET`` Link)|BETREVIVE|
 AddWarpLinkThroughProxyServer|/pay|`9(Warp To Newest `8TEAMPAY`` Casino Link)|teampay|
 AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
 
