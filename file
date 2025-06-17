@@ -100,6 +100,8 @@ add_textbox|`2Enjoy `9the proxy made by `b[`#Discord: ```9joakimmer1k0``]``|left
 add_spacer|small
 GazzetteEnd
 
+
+BlockCommandUsage|/shop||1|1|
 len|97|225|
 
 LoginMessage1|
