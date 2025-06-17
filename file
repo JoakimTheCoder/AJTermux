@@ -101,7 +101,7 @@ add_spacer|small
 GazzetteEnd
 
 
-BlockCommandUsage|/shop||1|1|
+BlockCommandUsage#|/shop||1|1|
 len|97|225|
 
 LoginMessage1|
