@@ -42,8 +42,8 @@ CsnLink#|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)||2cDN2UTO4QDMygTM4cjN0c
 
 
 CsnLink|/rud|`9(Warp To Newest `8RUDYS`` Casino Link)||[webhk]1376677120390201464/LQJD5pbMTt4_XrPbZWfteuS-acfvsMcf1DS2KqaBHlbZRXHs9eHqbi1A6F3Ezcb6kF2c/messages/1376677235150295073|1|json|content|
-CsnLink|/octa|`9(Warp To Newest `8TEAMYT`` Casino Link)||[webhk]1374671306842177546/fyIN6MaObt1sE9ODbV75YJE6cH0EGi_lAH9PeX_YddHsna2nyKCpmt24MKX8uXdFBzuH/messages/1374678540741771284|1|json|content|
-CsnLink|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)||[webhk]1374671459032502274/9cwQ6K1KBJmEIMTxNZu3kQ6Vvng1vCcOAmGVraHcb-NHrA8CRt2kKit_nL8k_NJjOMAP/messages/1374678182048956476|1|json|content|
+CsnLink|/octa|`9(Warp To Newest `8TEAMOCTA`` Casino Link)||[webhk]1374671306842177546/fyIN6MaObt1sE9ODbV75YJE6cH0EGi_lAH9PeX_YddHsna2nyKCpmt24MKX8uXdFBzuH/messages/1374678540741771284|1|json|content|
+CsnLink#|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)||[webhk]1374671459032502274/9cwQ6K1KBJmEIMTxNZu3kQ6Vvng1vCcOAmGVraHcb-NHrA8CRt2kKit_nL8k_NJjOMAP/messages/1374678182048956476|1|json|content|
 CsnLink|/ju|`9(Warp To Newest `8TEAMJU`` Link)||https://teamju.com/link|1|urlbody||
 CsnLink|/bet|`9(Warp To Newest `8TEAMBET`` Link)|BETREVIVE|
 AddWarpLinkThroughProxyServer|/pay|`9(Warp To Newest `8TEAMPAY`` Casino Link)|teampay|
@@ -54,11 +54,11 @@ AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
 Rttex#|teamju_banner2.rttex|https://files.catbox.moe/e2nqub.rttex
 Rttex#|teampay_banner.rttex|https://files.catbox.moe/p8af9s.rttex
 Rttex|ajico.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/ProxyIcon.rttex
-Rttex|teamput_banner.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/teamput_banner_new.rttex
+Rttex#|teamput_banner.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/teamput_banner_new.rttex
 Rttex#|teamyt_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/teamyt_adv.rttex
 Rttex#|teamflow_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/flow_adv.rttex
-Rttex|Rudbanner.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/Rudbanner.rttex
-Rttex|octa_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/octa_adv.rttex
+Rttex#|Rudbanner.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/Rudbanner.rttex
+Rttex#|octa_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/octa_adv.rttex
 
 LOGIN1|https://login.growtopiagame.com/player/login/dashboard?valKey=40db4045f2d8c572efe8c4a060605726
 LOGIN2|https://login.growtopiagame.com/player/growid/login/validate
