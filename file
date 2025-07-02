@@ -32,8 +32,9 @@ AddModsList|67302|`#@Miu|
 AddModsList|36299549|`#@Moniuet|
 
 LoginMessage3|
-UpdateMessage|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
-ProxyVersion|18.5
+UpdateMessage##|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
+UpdateMessage|`9There has been so much bugs in `#Version 18.5``, `2Force Update`` is `2Required``.. (Update Proxy to Play)
+ProxyVersion|18.6
 NewProxyLink|https://github.com/JoakimTheCoder/DownloadProxy/raw/refs/heads/main/AJ%20Premium%20Proxy%20V18.53.exe
 
 
