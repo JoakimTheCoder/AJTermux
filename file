@@ -13,7 +13,7 @@ OldFpsPattern##|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 74 24 28 0F 57 DB 44 89 
 searchOffsetWithPattern|1
 ProxyServer|195.62.48.50
 ProxyServerPort|1234
-discord|https://discord.gg/ajproxy
+discord|discord.gg/ajproxy
 discordme|`b[`9discord.gg/ajproxy``]``
 GrowtopiaIP|213.179.209.175
 GrowtopiaPort|17043|17043|17043|17043|17043
