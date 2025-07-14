@@ -105,7 +105,7 @@ GazzetteEnd
 BlockCommandUsage#|/shop||1|1|
 len|97|225|
 
-LoginMessage1|
+LoginMessage1|`cLogging In...
 LoginMessage4|
 LoginMessage5|
 LoginMessage2|
