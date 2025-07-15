@@ -105,10 +105,10 @@ GazzetteEnd
 BlockCommandUsage#|/shop||1|1|
 len|97|225|
 
-LoginMessage1|`cLogging In...
+LoginMessage1|`cConnecting...
 LoginMessage4|
 LoginMessage5|
-LoginMessage2|
+LoginMessage2|`cLogging In...
 teamdav|DAVPLAY34
 teamhuf|HUFGG132
 teamrud|RUDGT50
