@@ -36,7 +36,7 @@ UpdateMessage##|`9New Update Is `2Available``, Update Proxy To `2Newest`` Versio
 UpdateMessage|`8Proxy is currently under maintenance.
 UpdateMessage_ANDROID|`8Android Proxy is currently under maintenance. Fixing stuff...
 ProxyVersion|18.6
-ProxyVersion_ANDROID|18.7
+ProxyVersion_ANDROID|18.6
 IgnoreNewVersion_PC|18.7|18.6|
 NewProxyLink|https://github.com/JoakimTheCoder/DownloadProxy/raw/refs/heads/main/AJ%20Premium%20Proxy%20V18.6.exe
 
