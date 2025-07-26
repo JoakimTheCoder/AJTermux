@@ -54,6 +54,9 @@ AddWarpLinkThroughProxyServer|/pay|`9(Warp To Newest `8TEAMPAY`` Casino Link)|te
 AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
 
 
+AddGTPSInfo|Creative Private Server|51.75.87.53
+AddGTPSInfo|Enigma Private Server|51.91.254.32
+
 
 Rttex#|teamju_banner2.rttex|https://files.catbox.moe/e2nqub.rttex
 Rttex#|teampay_banner.rttex|https://files.catbox.moe/p8af9s.rttex
