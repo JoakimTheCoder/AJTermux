@@ -79,7 +79,7 @@ PostHeader|Host: www.growtopia1.com
 PostHeader|User-Agent:_UbiServices_SDK_2022.Release.9_PC64_ansi_static
 PostHeader|Accept: */*
 PostHeader|Content-Type: application/x-www-form-urlencoded
-PostFields|version=5.11&platform=0&protocol=216
+PostFields|version=5.24&platform=0&protocol=216
 
 server_data_Start
 server|%s
