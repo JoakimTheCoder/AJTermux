@@ -28,9 +28,6 @@ RudysURL|
 AddSupportForNewItemsVersion|20|1
 AddSupportForNewItemsVersion|21|1
 
-AddModsList|67302|`#@Miu|
-AddModsList|36299549|`#@Moniuet|
-
 LoginMessage3|
 UpdateMessage##|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
 UpdateMessage|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
@@ -109,6 +106,10 @@ GazzetteEnd
 
 BlockCommandUsage#|/shop||1|1|
 len|97|225|
+
+AddModsList|27685196|`#@Mik3z|
+AddModsList|67302|`#@Miu|
+AddModsList|36299549|`#@Moniuet|
 
 LoginMessage1|`cConnecting...
 LoginMessage4|
