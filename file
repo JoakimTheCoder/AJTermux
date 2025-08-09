@@ -30,7 +30,8 @@ AddSupportForNewItemsVersion|21|1
 
 LoginMessage3|
 UpdateMessage##|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
-UpdateMessage|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
+UpdateMessage|
+Old_UpdateMSG|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
 UpdateMessage_ANDROID|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
 ProxyVersion|18.8
 ProxyVersion_ANDROID|18.6
