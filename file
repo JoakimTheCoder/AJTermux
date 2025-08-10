@@ -105,10 +105,7 @@ add_spacer|small
 GazzetteEnd
 
 
-BlockCommandUsage#|/shop||1|1|
-BlockCommandUsage|/gems|`9This Command is `4Disabled``, because it's too buggy. Wait for owner to `2Re-develop`` this Feature :)|1|1|
-BlockCommandUsage|/ig|`9This Command is `4Disabled``, because it's too buggy. Wait for owner to `2Re-develop`` this Feature :)|1|1|
-BlockCommandUsage|/instantgem|`9This Command is `4Disabled``, because it's too buggy. Wait for owner to `2Re-develop`` this Feature :)|1|1|
+
 len|97|225|
 
 AddModsList|27685196|`#@Mik3z|
