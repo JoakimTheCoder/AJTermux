@@ -105,7 +105,7 @@ add_spacer|small
 GazzetteEnd
 
 
-BlockCommandUsage|respull|`9This Feature Has Been `4Disabled``.|1
+BlockCommandUsage#|respull|`9This Feature Has Been `4Disabled``.|1
 len|97|225|
 
 AddModsList|27685196|`#@Mik3z|
