@@ -98,6 +98,7 @@ server_data_End
 
 GazzetteStart
 add_spacer|small
+add_image_button|banner_input_/lon|interface/teamlon_banner.rttex|bannerlayout|||
 add_image_button|banner_input_/rud|interface/Rudbanner.rttex|bannerlayout|||
 add_spacer|small
 add_textbox|`2Enjoy `9the proxy made by `b[`#Discord: ```9joakimmer1k0``]``|left|2480|
