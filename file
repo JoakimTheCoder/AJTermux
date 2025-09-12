@@ -55,7 +55,6 @@ AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
 AddGTPSInfo|Creative Private Server|51.75.87.53
 AddGTPSInfo|Enigma Private Server  |51.91.254.32
 
-Rttex|teamlon_banner.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/teamlon.rttex
 Rttex#|teamju_banner2.rttex|https://files.catbox.moe/e2nqub.rttex
 Rttex#|teampay_banner.rttex|https://files.catbox.moe/p8af9s.rttex
 Rttex|ajico.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/ProxyIcon.rttex
@@ -98,7 +97,6 @@ server_data_End
 
 GazzetteStart
 add_spacer|small
-add_image_button|banner_input_/lon|interface/teamlon_banner.rttex|bannerlayout|||
 add_image_button|banner_input_/rud|interface/Rudbanner.rttex|bannerlayout|||
 add_spacer|small
 add_textbox|`2Enjoy `9the proxy made by `b[`#Discord: ```9joakimmer1k0``]``|left|2480|
