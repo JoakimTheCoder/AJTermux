@@ -13,8 +13,8 @@ PostAPI|https://meta.vaccat.xyz
 PostAddress|/growtopia/server_data.php
 ProxyServer|195.62.48.50
 ProxyServerPort|1234
-discord|discord.gg/ajproxy
-discordme|`b[`9discord.gg/ajproxy``]``
+discord|discord.gg/KingProxy
+discordme|`b[`9discord.gg/KingProxy``]``
 GrowtopiaIP|213.179.209.175
 GrowtopiaPort|17043|17043|17043|17043|17043
 teamdav|DAVPLAY34
@@ -26,8 +26,8 @@ KovatTyypit|owner|LEKSA|kondee|Dabah|leksa
 UpdateURL|https://filepost.io/streamer?token=e629cfd460920dbf2b5ab5dd613aa32d085404b3cbca693418a2b1c53186a47a%7CB0Rm%2BLeIvvp3WkqSDc2a9uLctJ1EN4qlA%2Fi5rZQ5VLRZaF%2F4yvjQItKCQkmAzbKovkSO0C%2F%2BhIwWffOKc2sqoVdH7r2apIA%2BeKaRrQ2vXBA3WVjoUgtd6zFWpwBDiCKxnzdmzJ3ydd9Dts0SxVWz2D%2BNgo3pfg91aOTyYYEsPWOeTUOuqj13b8b7Mr4u60HR5Huko%2BY711opZemid2k7VGmxuSg%2Bzx0LJvUG%2BA%3D%3D--%2BDsusvMFPRPUqtpw--qz7LWwZ%2Fmi5wbgeTGE5dCA%3D%3D
 DiscordID|1210909836288729099
 TemporaryUse|0
-ItemsBackup|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/android_items.dat
-ItemDataBackup2|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/android_items.dat
+ItemsBackup|https://raw.githubusercontent.com/kuma379/proxy/refs/heads/main/android_items.dat
+ItemDataBackup2|https://raw.githubusercontent.com/kuma379/proxy/refs/heads/main/android_items.dat
 RudysURL|
 
 AddModsList|67302|`#@Miu|
@@ -72,8 +72,8 @@ GazzetteStart
 #add_image_button|banner_input_/rud|interface/Rudbanner.rttex|bannerlayout|||
 add_image_button|banner_input_/pay|interface/teampay_banner.rttex|bannerlayout|||
 add_spacer|small
-add_smalltext|`9Creators: Joakim & Naade. Discord: `1joakimmer1k0`` & `1naade_``|left|
-add_url_button||`9Join To The New Proxy `cDiscord Server|NOFLAGS|https://discord.gg/ajproxy|
-add_textbox|`2Enjoy `9the proxy made by `b[`9joakimmer1k0``]``|left|2480|
+add_smalltext|`9Creators: Joakim & KingPro. Discord: `KingCip`` & `KingCup_``|left|
+add_url_button||`9Join To The New Proxy `cDiscord Server|NOFLAGS|https://discord.gg/KingProxy|
+add_textbox|`2Enjoy `9the proxy made by `b[`KingCip``]``|left|2480|
 add_spacer|small
 GazzetteEnd

@@ -13,16 +13,16 @@ OldFpsPattern##|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 74 24 28 0F 57 DB 44 89 
 searchOffsetWithPattern|1
 ProxyServer|195.62.48.50
 ProxyServerPort|1234
-discord|discord.gg/jne56ZqfQt
-discordme|`b[`9discord.gg/jne56ZqfQt``]``
+discord|discord.gg/kingProxy
+discordme|`b[`9discord.gg/kingProxy``]``
 GrowtopiaIP|213.179.209.175
 GrowtopiaPort|17043|17043|17043|17043|17043
 KovatTyypit|owner|LEKSA|kondee|Dabah|leksa
 UpdateURL|https://filepost.io/streamer?token=e629cfd460920dbf2b5ab5dd613aa32d085404b3cbca693418a2b1c53186a47a%7CB0Rm%2BLeIvvp3WkqSDc2a9uLctJ1EN4qlA%2Fi5rZQ5VLRZaF%2F4yvjQItKCQkmAzbKovkSO0C%2F%2BhIwWffOKc2sqoVdH7r2apIA%2BeKaRrQ2vXBA3WVjoUgtd6zFWpwBDiCKxnzdmzJ3ydd9Dts0SxVWz2D%2BNgo3pfg91aOTyYYEsPWOeTUOuqj13b8b7Mr4u60HR5Huko%2BY711opZemid2k7VGmxuSg%2Bzx0LJvUG%2BA%3D%3D--%2BDsusvMFPRPUqtpw--qz7LWwZ%2Fmi5wbgeTGE5dCA%3D%3D
 DiscordID|1210909836288729099
 TemporaryUse|0
-ItemsBackup|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/items.dat
-ItemDataBackup2|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/items.dat
+ItemsBackup|https://raw.githubusercontent.com/kuma379/proxy/refs/heads/main/items.dat
+ItemDataBackup2|https://raw.githubusercontent.com/kuma379/proxy/refs/heads/main/items.dat
 RudysURL|
 
 AddSupportForNewItemsVersion|20|1
@@ -57,15 +57,15 @@ AddGTPSInfo|Enigma Private Server  |51.91.254.32
 
 Rttex#|teamju_banner2.rttex|https://files.catbox.moe/e2nqub.rttex
 Rttex#|teampay_banner.rttex|https://files.catbox.moe/p8af9s.rttex
-Rttex|ajico.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/ProxyIcon.rttex
-Rttex#|teamput_banner.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/teamput_banner_new.rttex
-Rttex#|teamyt_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/teamyt_adv.rttex
-Rttex#|teamflow_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/flow_adv.rttex
-Rttex|Rudbanner.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/Rudbanner.rttex
+Rttex|ajico.rttex|https://raw.githubusercontent.com/kuma379/proxy/refs/heads/main/ProxyIcon.rttex
+Rttex#|teamput_banner.rttex|https://raw.githubusercontent.com/kuma379/proxy/refs/heads/main/teamput_banner_new.rttex
+Rttex#|teamyt_adv.rttex|https://raw.githubusercontent.com/kuma379/proxy/refs/heads/main/teamyt_adv.rttex
+Rttex#|teamflow_adv.rttex|https://raw.githubusercontent.com/kuma379/proxy/refs/heads/main/flow_adv.rttex
+Rttex|Rudbanner.rttex|https://raw.githubusercontent.com/kuma379/proxy/refs/heads/main/Rudbanner.rttex
 
-Rttex#|pasi2.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/pasi2.rttex
+Rttex#|pasi2.rttex|https://raw.githubusercontent.com/kuma379/proxy/refs/heads/main/pasi2.rttex
 
-Rttex#|octa_adv.rttex|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/octa_adv.rttex|Allows|1
+Rttex#|octa_adv.rttex|https://raw.githubusercontent.com/kuma379/proxy/refs/heads/main/octa_adv.rttex|Allows|1
 
 LOGIN1|https://login.growtopiagame.com/player/login/dashboard?valKey=40db4045f2d8c572efe8c4a060605726
 LOGIN2|https://login.growtopiagame.com/player/growid/login/validate
@@ -99,7 +99,7 @@ GazzetteStart
 add_spacer|small
 add_image_button|banner_input_/rud|interface/Rudbanner.rttex|bannerlayout|||
 add_spacer|small
-add_textbox|`2Enjoy `9the proxy made by `b[`#Discord: ```9joakimmer1k0``]``|left|2480|
+add_textbox|`2Enjoy `9the proxy made by `b[`#Discord: `KingCip``]``|left|2480|
 add_spacer|small
 GazzetteEnd
 
@@ -111,8 +111,8 @@ AddModsList|27685196|`#@Mik3z
 AddModsList|67302|`#@Miu
 AddModsList|36299549|`#@Moniuet
 
-LoginMessage1|`2Old Discord Got `4Hacked``, Proxy's New Discord Server: `#https://discord.gg/jne56ZqfQt``
-LoginMessage4|`2Old Discord Got `4Hacked``, Proxy's New Discord Server: `#https://discord.gg/jne56ZqfQt``
+LoginMessage1|`2Old Discord Got `4Hacked``, Proxy's New Discord Server: `#https://discord.gg/KingProxy``
+LoginMessage4|`2Old Discord Got `4Hacked``, Proxy's New Discord Server: `#https://discord.gg/KingProxy``
 LoginMessage5|
 LoginMessage2|
 teamdav|DAVPLAY34
