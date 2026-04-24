@@ -8,7 +8,7 @@ api|https://keyauth.win/api/1.2/
 PostAPI|https://meta.vaccat.xyz
 PostAddress|/growtopia/server_data.php
 FpsOffset|29828860
-FpsPattern|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 ? 24 28 ? ? ? ? ? ? ? ? 0F 28 D7 BA 13 00 00 00 E8 ? ? ? ?
+FpsPattern|0F 28 D7 BA 13 00 00 00 E8 ? ? ? ?
 OldFpsPattern##|E9 ? 00 00 00 E8 ? ? ? ? 48 8B C8 44 89 74 24 28 0F 57 DB 44 89 74 24 20 0F 28 D7 BA 13 00 00 00 E8 ? ? ? FF
 searchOffsetWithPattern|1
 ProxyServer|195.62.48.50
