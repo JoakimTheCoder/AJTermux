@@ -9,7 +9,7 @@ PostAPI|https://meta.vaccat.xyz
 PostAddress|/growtopia/server_data.php
 FpsOffset|40718716
 FpsPattern|E9 ? ? ? ? E8 ? ? ? ? 89 74 24 28 89 74 24 20 0F 57 DB 0F 28 D7 BA 13 00 00 00 48 8B C8
-searchOffsetWithPattern|0
+searchOffsetWithPattern|1
 ProxyServer|195.62.48.50
 ProxyServerPort|1234
 discord|discord.gg/jne56ZqfQt
